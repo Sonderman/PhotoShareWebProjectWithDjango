@@ -1,4 +1,5 @@
 # PhotoShareWebProjectWithDjango
+![](ScreenShoot.png)
 Needed packages:<br>
 Django<br>
 Pillow<br>
